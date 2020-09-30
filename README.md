@@ -9,7 +9,7 @@ Mapa mental [Mapa Mental 1](https://github.com/vanessaodlr/Mineria-de-datos/blob
 
 1. Ejercicios
    	  - Ejercicio 1 [Ejercicio](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Ejercicios1_1_002.pdf) 
-           - Datos_ [Datos](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Ejercicios1_1_002.ipynb)
+           - Datos_ [Datos](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Ejercicio_1.1.csv)
 	- Ejercicio 2 [Ejercicio_](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Ejercicio_1.1.csv) 
 	  - Datos_ [Datos_](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Ejercicio_1.2.csv)
 
