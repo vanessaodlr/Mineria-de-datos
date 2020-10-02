@@ -14,4 +14,7 @@ Mapa mental [Mapa Mental 1](https://github.com/vanessaodlr/Mineria-de-datos/blob
 	  - Datos_ [Datos_](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Ejercicio_1.2.csv)
 
 Mapa mental II [Mapa Mental II](https://github.com/vanessaodlr/Mineria-de-datos/blob/master/MapaMental_2_1810699.pdf)
+
+
+
 Resumenes [Resumenes](https://github.com/vanessaodlr/Mineria-de-datos/blob/master/Resumen_TecnicasdeMineriadeDatos_1810699.pdf)
