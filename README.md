@@ -4,7 +4,7 @@ Mapa mental [Mapa Mental 1](https://github.com/vanessaodlr/Mineria-de-datos/blob
 
 1.Presentaciones tecnicas de Mineria 
   - Presentacion Clustering [Clustering](https://github.com/patyarvizu/Mineria-de-datos/blob/master/Presentacion_Clustering_002_(Con_Ejercicio).pdf)
-			                    - Ejercicio Clustering [Ejercicio Clustering](https://github.com/patyarvizu/Mineria-de-datos/blob/master/EjercicioClustering.ipynb)
+			                    - Ejercicio Clustering [Ejercicio](https://github.com/patyarvizu/Mineria-de-datos/blob/master/EjercicioClustering.ipynb)
   - Datos ejercicio [Datos](https://github.com/patyarvizu/Mineria-de-datos/blob/master/cars.csv)
 
 1. Ejercicios
