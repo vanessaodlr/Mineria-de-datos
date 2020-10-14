@@ -13,3 +13,5 @@ Mapa mental II [Mapa Mental](https://github.com/vanessaodlr/Mineria-de-datos/blo
 
 
 Resumen de las Tecnicas de Mineria de Datos [Resumen](https://github.com/vanessaodlr/Mineria-de-datos/blob/master/Resumen_TecnicasdeMineriadeDatos_1810699.pdf)
+##Fase 2
+Ejercicio de Bases de Datos[Ejercicios] (https://github.com/vanessaodlr/Mineria-de-datos/blob/master/An%C3%A1lisisBD_1810699.pdf)
