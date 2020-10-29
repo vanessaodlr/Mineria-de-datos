@@ -18,3 +18,5 @@ Resumen de las Tecnicas de Mineria de Datos [Resumen](https://github.com/vanessa
 Ejercicios de Bases de Datos [Ejercicios](https://github.com/vanessaodlr/Mineria-de-datos/blob/master/An%C3%A1lisisBD_1810699.pdf)
 
 Ejercicios basicos de Python [Ejercicios](https://github.com/vanessaodlr/Mineria-de-datos/blob/master/PythonB%C3%A1sico_1810699.ipynb)
+
+Avance PIA [Avance1](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Avance1-PIA_13_002.pdf)
