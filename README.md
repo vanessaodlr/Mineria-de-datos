@@ -20,3 +20,5 @@ Ejercicios de Bases de Datos [Ejercicios](https://github.com/vanessaodlr/Mineria
 Ejercicios basicos de Python [Ejercicios](https://github.com/vanessaodlr/Mineria-de-datos/blob/master/PythonB%C3%A1sico_1810699.ipynb)
 
 Avance PIA [Avance1](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Avance1-PIA_13_002.pdf)
+
+Ejercicios Python Minería de Datos [Ejericicios Minería](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Ejercicios%20Python%20Miner%C3%ADa%20de%20Datos.ipynb)
