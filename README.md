@@ -25,5 +25,7 @@ Ejercicios Python Minería de Datos [Ejericicios Minería](https://github.com/gn
 
 ## Fase 3
 Avance II Proyecto final [Avance II](https://github.com/gnoelopez/MineriaDeDatos/blob/master/AvancePIA_II_002_13.ipynb)
+
 Proyecto final [Poster](https://github.com/gnoelopez/MineriaDeDatos/blob/master/PIA_002_13.pdf)
+
 Proyecto final [Codigo](https://github.com/gnoelopez/MineriaDeDatos/blob/master/PIA_002_13.ipynb)
